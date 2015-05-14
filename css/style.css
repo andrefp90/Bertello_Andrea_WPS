@@ -77,7 +77,7 @@ footer {
 	background-color: #FF4C4C; 
 	border-top: 1px solid #fff; }
 	.nav_menu ul.dropmenu li ul li a.sublevel {
-	 color: #fff; width: 150px; 
+	width: 150px; 
 	 padding: 5px 5px 5px 20px; 
 	 margin: 0px; }
 	.nav_menu ul.dropmenu li ul li a.sublevel.hover { 
@@ -120,6 +120,7 @@ h1{
 	color: #E74836;
 	}
 	
+	
 h2{
 	font-family: Century Gothic, sans-serif;
 	margin-top:10px;
@@ -144,6 +145,15 @@ img{
 	
 a.link{
 	color:#E88D8F;
+	}
+	
+a.btn{
+	color:#FF4C4C;
+	text-decoration:none;
+	}
+	
+a.btn:hover{
+	color:#AF528B;
 	}
 	
 
