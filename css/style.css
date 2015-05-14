@@ -152,7 +152,7 @@ a.btn{
 	text-decoration:none;
 	}
 	
-a.btn:hover{
+a.btn:hover, a:link:hover{
 	color:#AF528B;
 	}
 	
